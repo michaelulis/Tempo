@@ -2,7 +2,7 @@ torch
 ipython
 ipdb
 p_tqdm
-sklearn
+scikit-learn
 scipy
 numpy
 tqdm
